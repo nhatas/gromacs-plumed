@@ -1,5 +1,6 @@
 # Gromacs + Plumed Docker Container
 
+Mirrored from https://gitlab.ics.muni.cz/3086/gromacs-plumed-docker/
 Prebuild Gromacs patched with Plumed, wrapped in Docker container for convenient use. Supports multiple CPU architectures and NVIDIA GPUs.
 Currently Cuda 11.2 is used, which requires NVIDIA drivers 450.80.02 and later (https://docs.nvidia.com/deploy/cuda-compatibility/index.html)
 
